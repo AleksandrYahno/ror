@@ -2,8 +2,8 @@
 
 one:
   title: MyString
-  blob: MyText
+  body: MyText
 
 two:
   title: MyString
-  blob: MyText
+  body: MyText
