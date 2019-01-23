@@ -14,7 +14,7 @@ class PostsTest < ApplicationSystemTestCase
     visit posts_url
     click_on "New Post"
 
-    fill_in "blog", with: @post.body
+    fill_in "blob", with: @post.body
     fill_in "Title", with: @post.title
     click_on "Create Post"
 
